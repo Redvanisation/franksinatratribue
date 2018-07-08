@@ -1,0 +1,30 @@
+{
+  "name": "franksinatratribue",
+  "version": "1.0.0",
+  "description": "Tribue Page to The Music and Movies Legend Frank Sinatra",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redvanisation/franksinatratribue.git"
+  },
+  "keywords": [
+    "frank",
+    "sinatra",
+    "tribue",
+    "music",
+    "legend",
+    "movies",
+    "oldies",
+    "classical",
+    "biography"
+  ],
+  "author": "Redvanisation",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Redvanisation/franksinatratribue/issues"
+  },
+  "homepage": "https://github.com/Redvanisation/franksinatratribue#readme"
+}
